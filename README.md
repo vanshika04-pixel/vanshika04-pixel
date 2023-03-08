@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanshika04-pixel
-- 👀 I’m interested in Frontend Web development and Blockchain.
-- 🌱 I’m currently learning  Solidarity 
+- 👀 I’m interested in Frontend Web development.
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
