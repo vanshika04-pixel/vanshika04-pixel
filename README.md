@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanshika04-pixel
-- 👀 I’m interested in Frontend Web development.
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Frontend Web development and data science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
